@@ -1,0 +1,1 @@
+This project is the Odin Projects Admin dashboard project from the intermediate part of html css from the fullstack javascript section of the Odin Proj.
